@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TemperatureConventer</string>
+    <string name="temperature_in_fahrenheit">Temperature in Fahrenheit</string>
+</resources>
